@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "plate_number": "ABC1234",
+    "owner": "Juan Dela Cruz",
+    "vehicle_type": "Car",
+    "color": "Red"
+  },
+  {
+    "id": 2,
+    "plate_number": "XYZ5678",
+    "owner": "Maria Santos",
+    "vehicle_type": "Motorcycle",
+    "color": "Black"
+  }
+]

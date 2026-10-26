@@ -1,0 +1,13 @@
+{
+  "name": "campus-parking-management-system",
+  "version": "1.0.0",
+  "description": "Campus Parking Management System, Node.js + Express REST API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
